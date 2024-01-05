@@ -1,0 +1,41 @@
+body{
+    background-color: #ffffff;
+}
+
+.form__card{
+    width: 200px;
+    height: 270px;
+    border: black solid 2px;
+    border-radius: 10%;
+    text-align: left;
+    margin: 0 auto;
+    background: white;
+    background-color: #ffc876;
+    margin-top: 100px;
+}
+form{
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.label{
+    background-color: gainsboro;
+}
+input{
+     margin-top: 10px;    
+     border: black solid 1px;
+     border-radius: 5px;
+     color: rgb(0, 0, 0);
+}
+.btn{
+    padding: 5px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 180px;
+    height: 40px;
+    font-size: 18px;
+    background-color: #26caac;
+    color: white;
+}
+.btn:hover{
+    background-color: #1ea58c;
+}
